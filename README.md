@@ -21,7 +21,7 @@
 
 ## About
 
-PurAí is a platform that aims to centralize all the events that happen in Divinópolis and region in a simple and practical way.
+PurAí is a platform that aims to centralize all the events that happens in Divinópolis and region in a simple and practical way.
 
 ### Features
 
@@ -29,9 +29,9 @@ A few of the things PurAí offers:
 
 * Available for all iOS and Android phones.
 * Funky and intuitive design.
-* It gathers, in a single application, all the events that run in Divinópolis and region.
-* It allows you to find in advance the events that will happen in current day and those that will happen soon.
-* Helps locate the events that will happen near you. Just select a city to view events.
+* It gathers, in a single application, all the events that happens in Divinópolis and region.
+* It allows to find events that will happen in current day and those that will happen soon.
+* Helps locate the events that will happen near you. Just select a city to view the events.
 * Possibility to share events with contacts and social networks.
 
 ## License
