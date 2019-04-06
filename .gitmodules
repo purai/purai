@@ -1,0 +1,30 @@
+[submodule "iOS"]
+	path = iOS
+	url = https://github.com/purai/iOS
+[submodule "cli"]
+	path = cli
+	url = https://github.com/purai/cli
+[submodule "rails_api"]
+	path = rails_api
+	url = https://github.com/purai/rails_api
+[submodule "react_dashboard"]
+	path = react_dashboard
+	url = https://github.com/purai/react_dashboard
+[submodule "nodejs_api"]
+	path = nodejs_api
+	url = https://github.com/purai/nodejs_api
+[submodule "angular_dashboard"]
+	path = angular_dashboard
+	url = https://github.com/purai/angular_dashboard
+[submodule "wp_api"]
+	path = wp_api
+	url = https://github.com/purai/wp_api
+[submodule "react_native"]
+	path = react_native
+	url = https://github.com/purai/react_native
+[submodule "ios_sticker_pack"]
+	path = ios_sticker_pack
+	url = https://github.com/purai/ios_sticker_pack
+[submodule "crawler"]
+	path = crawler
+	url = https://github.com/purai/crawler
