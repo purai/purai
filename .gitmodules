@@ -28,3 +28,6 @@
 [submodule "crawler"]
 	path = crawler
 	url = https://github.com/purai/crawler
+[submodule "ionic"]
+	path = ionic
+	url = https://github.com/purai/ionic
