@@ -28,6 +28,8 @@ PurAí is a platform that aims to centralize all the events that happens in Divi
 A few of the things PurAí offers:
 
 * Available for all iOS and Android phones.
+* Siri Shortcuts support.
+* WatchOS app.
 * Funky and intuitive design.
 * It gathers, in a single application, all the events that happens in Divinópolis and region.
 * It allows to find events that will happen in current day and those that will happen soon.
